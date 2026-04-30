@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@700;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --page: #f7f5ef;
+  --text: #172026;
+}
+
+.dark {
+  color-scheme: dark;
+  --page: #101820;
+  --text: #edf2f7;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: var(--page);
+  color: var(--text);
+}
+
+::selection {
+  background: rgba(15, 118, 110, 0.22);
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.section-title {
+  @apply font-display text-3xl font-black text-ink dark:text-white sm:text-4xl;
+}
+
+.card {
+  @apply border border-ink/10 bg-white/80 p-5 shadow-soft backdrop-blur dark:border-white/10 dark:bg-white/5;
+  border-radius: 8px;
+}
+
+.chip {
+  @apply inline-flex items-center border border-ink/10 bg-white/70 px-3 py-1 text-sm font-medium text-ink/80 dark:border-white/10 dark:bg-white/10 dark:text-white/80;
+  border-radius: 999px;
+}
+
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-signal focus:ring-offset-2 focus:ring-offset-paper dark:focus:ring-offset-[#101820];
+}

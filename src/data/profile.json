@@ -1,0 +1,336 @@
+{
+  "person": {
+    "name": "Udayakumar P",
+    "title": "AI Researcher | Neuroimaging | Healthcare Data Science and Machine Learning",
+    "roles": [
+      "AI Researcher",
+      "Assistant Professor",
+      "Teaching and Research Assistant",
+      "Trainer"
+    ],
+    "tagline": "Human brain connectome mapping using Deep Learning",
+    "summary": "Experienced academic professional with over 10 years in Computer Science and Engineering, complemented by advanced expertise in AI, Machine Learning, and Deep Learning developed through PhD research, dedicated to fostering innovation and excellence in education and research.",
+    "location": "Tamilnadu, India",
+    "email": "udayameister@gmail.com",
+    "phone": "(+91) 6381240108",
+    "cvPath": "/Curriculum_Vitae_Udaya.pdf",
+    "photoPath": "/Udayakumar.jpg"
+  },
+  "links": {
+    "github": "https://github.com/udayameister",
+    "linkedin": "https://www.linkedin.com/in/udayakumar-palanivelu-934bb941/",
+    "googleScholar": "https://scholar.google.com/citations?user=cV5MPAQAAAAJ&hl=en",
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=58091327400",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/263889",
+    "orcid": "https://orcid.org/my-orcid?orcid=0000-0002-6270-9336"
+  },
+  "identifiers": {
+    "webOfScienceResearcherId": "AGQ-1970-2022"
+  },
+  "scholarMetrics": {
+    "citations": "",
+    "hIndex": "",
+    "i10Index": "",
+    "note": "Google Scholar profile link is available. Citation metrics can be added in this JSON file."
+  },
+  "education": [
+    {
+      "period": "2021-2026",
+      "degree": "PhD, Computer Science & Engineering",
+      "institution": "Vellore Institute of Technology, Vellore",
+      "details": "Thesis Title: Human brain connectome mapping using Deep Learning (Thesis Submitted)"
+    },
+    {
+      "period": "2008-2010",
+      "degree": "Master of Engineering, Computer Science & Engineering",
+      "institution": "Anna University, Tiruchirappalli",
+      "details": "CGPA: 8.05"
+    },
+    {
+      "period": "2002-2006",
+      "degree": "Bachelor of Engineering, Computer Science & Engineering",
+      "institution": "Anna University, Chennai",
+      "details": "Percentage: 67%"
+    }
+  ],
+  "experience": [
+    {
+      "period": "January 2025-Present",
+      "role": "Assistant Professor",
+      "organization": "Madanapalle Institute of Technology & Science, Deemed to be University, Andhra Pradesh, India",
+      "details": "Department of Computer Science & Engineering (Artificial Intelligence & Machine Learning)."
+    },
+    {
+      "period": "December 2021-December 2024",
+      "role": "Teaching and Research Assistant (TRA)",
+      "organization": "Vellore Institute of Technology, Vellore, India",
+      "details": "Thesis Title: Human brain Connectome mapping using Deep learning. Advisor: Dr. R. Subhashini, Associate Professor, School of Computer Science Engineering and Information Systems, Vellore Institute of Technology, Vellore, India."
+    },
+    {
+      "period": "November 2016-September 2020",
+      "role": "Lecturer",
+      "organization": "Wachemo University, Hosanna, Ethiopia",
+      "details": "Department of Computer Science, College of Engineering and Technology."
+    },
+    {
+      "period": "June 2013-May 2016",
+      "role": "Assistant Professor",
+      "organization": "SRM-TRP Engineering College (SRM Group), Trichy, India",
+      "details": "Department of Computer Science & Engineering."
+    },
+    {
+      "period": "July 2011-April 2013",
+      "role": "Teaching Fellow",
+      "organization": "Anna University, Chennai",
+      "details": "Department of Computer Technology, MIT Campus."
+    },
+    {
+      "period": "June 2010-June 2011",
+      "role": "Lecturer",
+      "organization": "E.S College of Engineering & Technology, Tamilnadu, India",
+      "details": "Department of Computer Science & Engineering."
+    }
+  ],
+  "publications": [
+    {
+      "category": "Journal Articles",
+      "year": "2025",
+      "title": "Connectome Graph Attention Network (CGAT): A Multimodal approach for enhanced classification of Alzheimer's disease controls",
+      "authors": "Udayakumar P, R. Subhashini",
+      "venue": "Results in Engineering",
+      "description": "Published journal article on a multimodal connectome graph attention network for Alzheimer's disease classification.",
+      "meta": "Impact Factor: 7.9"
+    },
+    {
+      "category": "Journal Articles",
+      "year": "2025",
+      "title": "Integrating deep learning in brain connectome mapping: Insights from a systematic review",
+      "authors": "Udayakumar P, R. Subhashini",
+      "venue": "International Research Journal of Multidisciplinary Scope (IRJMS), 6(2): 1-20",
+      "description": "Systematic review of deep learning integration in brain connectome mapping.",
+      "meta": ""
+    },
+    {
+      "category": "Journal Articles",
+      "year": "2024",
+      "title": "Connectome based schizophrenia prediction using structural connectivity - Deep Graph Neural Network (sc-DGNN)",
+      "authors": "Udayakumar P, R. Subhashini",
+      "venue": "Journal of X-Ray Science and Technology",
+      "description": "Published journal article on structural-connectivity-based schizophrenia prediction with a deep graph neural network.",
+      "meta": "Impact Factor: 3.0"
+    },
+    {
+      "category": "Journal Articles",
+      "year": "2024",
+      "title": "Semantic web based sensor planning services (SPS) for sensor web enablement (SWE)",
+      "authors": "Udayakumar P, M. Indhumathi",
+      "venue": "International Journal of Computer Engineering Science (IJCES)",
+      "description": "Published article on semantic-web-based sensor planning services for sensor web enablement.",
+      "meta": "DOI: https://doi.org/10.48550/arXiv.1207.5310"
+    },
+    {
+      "category": "Under Review",
+      "year": "2025",
+      "title": "CST-GCNN: Spatio-Temporal Connectome Graph Network for Schizophrenia Classification",
+      "authors": "Udayakumar P, R. Subhashini",
+      "venue": "IEEE Access",
+      "description": "Communicated journal article on spatio-temporal connectome graph networks for schizophrenia classification.",
+      "meta": "Communicated Journal Article"
+    },
+    {
+      "category": "Conferences",
+      "year": "2024",
+      "title": "fMRI data to connectivity matrices: Building functional connectomes for deep learning models",
+      "authors": "P. Udayakumar and R. Subhashini",
+      "venue": "IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering 2024 (IEEE WIECON-ECE 2024), pages 1-5",
+      "description": "Conference paper on constructing functional connectomes from fMRI data for deep learning models.",
+      "meta": "IEEE, 2024"
+    },
+    {
+      "category": "Conferences",
+      "year": "2023",
+      "title": "Diffusion MRI preprocessing for deep learning analysis of brain structural connectivity",
+      "authors": "P. Udayakumar and R. Subhashini",
+      "venue": "2023 12th International Conference on Advanced Computing (ICoAC), pages 1-5",
+      "description": "Conference paper on diffusion MRI preprocessing for deep learning analysis of structural brain connectivity.",
+      "meta": "IEEE, 2023"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "items": [
+        "Python",
+        "C",
+        "C++",
+        "Advanced JAVA"
+      ]
+    },
+    {
+      "category": "Web Technologies",
+      "items": [
+        "HTML 5",
+        "PHP",
+        "JSP",
+        "ReactJS"
+      ]
+    },
+    {
+      "category": "Database",
+      "items": [
+        "SQL",
+        "MySQL"
+      ]
+    },
+    {
+      "category": "Neuroimaging Tools",
+      "items": [
+        "Matlab",
+        "FSL",
+        "FreeSurfer",
+        "SPM12",
+        "MRtrix",
+        "ANTs",
+        "DSIStudio"
+      ]
+    },
+    {
+      "category": "AI/ML Frameworks",
+      "items": [
+        "PyTorch",
+        "Keras",
+        "TensorFlow",
+        "PyTorch Lightning",
+        "PyG"
+      ]
+    },
+    {
+      "category": "Data Visualization",
+      "items": [
+        "NumPy",
+        "Pandas",
+        "Matplotlib"
+      ]
+    },
+    {
+      "category": "AI Specializations",
+      "items": [
+        "LLM",
+        "SSL",
+        "multi-modal AI models",
+        "neural networks",
+        "generative models"
+      ]
+    },
+    {
+      "category": "MLOps",
+      "items": [
+        "Hugging Face",
+        "DeepSpeed",
+        "Megatron"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Human Brain Connectome Mapping Using Deep Learning",
+      "type": "PhD Research",
+      "description": "Doctoral research focused on human brain connectome mapping using deep learning.",
+      "keywords": [
+        "Deep Learning",
+        "Connectome Mapping",
+        "Neuroimaging"
+      ]
+    },
+    {
+      "title": "Connectome Graph Attention Network (CGAT)",
+      "type": "Research Contribution",
+      "description": "Multimodal approach for enhanced classification of Alzheimer's disease controls.",
+      "keywords": [
+        "GNN",
+        "Attention Network",
+        "Alzheimer's Disease"
+      ]
+    },
+    {
+      "title": "sc-DGNN for Schizophrenia Prediction",
+      "type": "Research Contribution",
+      "description": "Connectome-based schizophrenia prediction using structural connectivity and a Deep Graph Neural Network.",
+      "keywords": [
+        "Structural Connectivity",
+        "Schizophrenia",
+        "Deep Graph Neural Network"
+      ]
+    },
+    {
+      "title": "CST-GCNN",
+      "type": "Communicated Research",
+      "description": "Spatio-temporal connectome graph network for schizophrenia classification.",
+      "keywords": [
+        "Spatio-Temporal Models",
+        "Graph Networks",
+        "Schizophrenia"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "year": "2025",
+      "title": "Raman Research Award",
+      "organization": "Vellore Institute of Technology, Vellore, India",
+      "description": "Awarded as a PhD research scholar."
+    },
+    {
+      "year": "2024",
+      "title": "Raman Research Award",
+      "organization": "Vellore Institute of Technology, Vellore, India",
+      "description": "Awarded as a PhD research scholar."
+    },
+    {
+      "year": "2024",
+      "title": "Dr. APJ Abdul Kalam Award",
+      "organization": "Vellore Institute of Technology, Vellore, India",
+      "description": "Awarded as a PhD research scholar."
+    },
+    {
+      "year": "",
+      "title": "Scalable AI algorithms for brain imaging and healthcare applications",
+      "organization": "",
+      "description": "Developed scalable AI algorithms for brain imaging and healthcare applications."
+    },
+    {
+      "year": "",
+      "title": "Neuroimaging publications",
+      "organization": "",
+      "description": "Published articles on deep learning models applied to neuroimaging data."
+    },
+    {
+      "year": "",
+      "title": "Student research projects",
+      "organization": "",
+      "description": "Led student research projects in multi-modal AI, resulting in strong student engagement."
+    }
+  ],
+  "certifications": [
+    {
+      "date": "January 2025",
+      "title": "Introduction to Machine Learning",
+      "issuer": "NPTEL, IIT Ropar"
+    },
+    {
+      "date": "July 2024",
+      "title": "Oracle Cloud Infrastructure Generative AI Certified Professional",
+      "issuer": "Oracle"
+    },
+    {
+      "date": "January 2023",
+      "title": "Deep Learning",
+      "issuer": "NPTEL, IIT Ropar"
+    }
+  ],
+  "researchInterests": [
+    "Large-Scale Healthcare Data Analysis",
+    "Generative AI Models in Clinical Applications",
+    "Integration of Deep Learning in Multi-model Medical Imaging"
+  ]
+}
