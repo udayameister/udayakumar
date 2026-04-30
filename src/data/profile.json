@@ -28,9 +28,9 @@
     "webOfScienceResearcherId": "AGQ-1970-2022"
   },
   "scholarMetrics": {
-    "citations": "",
-    "hIndex": "",
-    "i10Index": "",
+    "citations": "22",
+    "hIndex": "3",
+    "i10Index": "1",
     "note": "Google Scholar profile link is available. Citation metrics can be added in this JSON file."
   },
   "education": [
