@@ -5,7 +5,7 @@
     "roles": [
       "AI Researcher",
       "Assistant Professor",
-      "Teaching and Research Assistant",
+      "AI model developer",
       "Trainer"
     ],
     "tagline": "Human brain connectome mapping using Deep Learning",
@@ -89,6 +89,12 @@
       "role": "Lecturer",
       "organization": "E.S College of Engineering & Technology, Tamilnadu, India",
       "details": "Department of Computer Science & Engineering."
+    },
+    {
+      "period": "June 2007-September 2008",
+      "role": "Lecturer",
+      "organization": "Padaleswarar Polytechnic College, Cuddalore, Tamilnadu, India",
+      "details": "Department of Computer Technology."
     }
   ],
   "publications": [
