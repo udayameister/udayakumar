@@ -142,6 +142,15 @@
       "description": "Communicated journal article on spatio-temporal connectome graph networks for schizophrenia classification.",
       "meta": "Communicated Journal Article"
     },
+       {
+      "category": "Under Review",
+      "year": "2026",
+      "title": "A benchmark web application for Magnetic Resonance Spectroscopy(MRS) Data analysis using Physics-Informed Neural Networks",
+      "authors": "Udayakumar P, Indhumathi M, Anandaraj B, Jaganathan D",
+      "venue": "Biomedical Signal Processing and Control",
+      "description": "Communicated journal article on sweb application for Magnetic Resonance Spectroscopy(MRS) Data analysis using PINN.",
+      "meta": "Communicated Journal Article"
+    },
     {
       "category": "Conferences",
       "year": "2024",
