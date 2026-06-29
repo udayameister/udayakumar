@@ -98,13 +98,22 @@
   ],
   "publications": [
     {
+  "category": "Journal Articles",
+  "year": "2026",
+  "title": "CST-GCNN: Spatio-Temporal Connectome Graph Network for Schizophrenia Classification",
+  "authors": "Udayakumar P, R. Subhashini",
+  "venue": "IEEE Access",
+  "description": "Published article proposing a Spatio-Temporal Connectome Graph Convolutional Network (CST-GCNN) for multimodal schizophrenia classification using brain connectome data.",
+  "meta": "DOI: 10.1109/ACCESS.2026.3586749 | Impact Factor: 4.2"
+  },
+    {
       "category": "Journal Articles",
       "year": "2025",
       "title": "Connectome Graph Attention Network (CGAT): A Multimodal approach for enhanced classification of Alzheimer's disease controls",
       "authors": "Udayakumar P, R. Subhashini",
       "venue": "Results in Engineering",
       "description": "Published journal article on a multimodal connectome graph attention network for Alzheimer's disease classification.",
-      "meta": "Impact Factor: 7.9"
+      "meta": "Impact Factor: 9.4"
     },
     {
       "category": "Journal Articles",
@@ -134,15 +143,6 @@
       "meta": "DOI: https://doi.org/10.48550/arXiv.1207.5310"
     },
     {
-      "category": "Accepted",
-      "year": "2026",
-      "title": "CST-GCNN: Spatio-Temporal Connectome Graph Network for Schizophrenia Classification",
-      "authors": "Udayakumar P, R. Subhashini",
-      "venue": "IEEE Access",
-      "description": "Communicated journal article on spatio-temporal connectome graph networks for schizophrenia classification.",
-      "meta": "Communicated Journal Article"
-    },
-       {
       "category": "Under Review",
       "year": "2026",
       "title": "A benchmark web application for Magnetic Resonance Spectroscopy(MRS) Data analysis using Physics-Informed Neural Networks",
@@ -288,6 +288,12 @@
     }
   ],
   "achievements": [
+    {
+  "year": "2026",
+  "title": "Raman Research Award",
+  "organization": "Vellore Institute of Technology, Vellore, India",
+  "description": "Awarded for outstanding research contributions as a Ph.D. Research Scholar."
+},
     {
       "year": "2025",
       "title": "Raman Research Award",
